@@ -410,7 +410,7 @@ label:hover {
 input:checked + label {
   color: #555;
   border: 1px solid #ddd;
-  border-top: 2px solid orange;
+  border-top: 2px solid #b87333;
   border-bottom: 1px solid #fff;
 }
 
@@ -703,8 +703,8 @@ fieldset {
 #contact button[type="submit"] {
   cursor: pointer;
   width: 100%;
-  border: 1px solid orange;
-  background: orange;
+  border: 1px solid #b87333;
+  background: #b87333;
   color: #FFF;
   margin: 0 0 5px;
   padding: 10px;
