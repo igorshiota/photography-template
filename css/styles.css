@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
 
+/*Tabs*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/*Contact Form*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+
+/*Masonry Gallery*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
 * {
 	box-sizing: border-box;
 	transition: all ease-in-out 200ms;
@@ -331,11 +341,6 @@ footer {
 }
 
 
-/*Tabs*/
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
-@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-
 *, *:before, *:after {
   margin: 0;
   padding: 0;
@@ -459,7 +464,6 @@ input:checked + label {
 
 /*Masonry Gallery*/
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
 * {
   box-sizing: border-box;
 }
@@ -493,7 +497,6 @@ section img {
   left: 0;
   display: none;
   background: #7f8c8d;
-  perspective: 1000;
 }
 
 .filter {
@@ -601,7 +604,7 @@ section img {
 
 /*Contact Form*/
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+
 /** {
   margin: 0;
   padding: 0;
